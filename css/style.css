@@ -1,0 +1,44 @@
+body{
+  background:#F2F2F2;
+}
+
+#wrapper{
+  width: 600px;
+  height: 600px;
+  margin: auto;
+}
+
+#header{
+  width: 600px;
+  height: 100px;
+}
+
+.title{
+  text-align: center;
+  font-size: 40px;
+  font-weight: bold;
+  padding-right: 120px;
+  padding-left: 100px;
+  float: left;
+}
+
+#body{
+  width: 600px;
+  height: 400px;
+  background:white;
+}
+
+#english{
+  padding: 130px 150px;
+  font-size: 70px;
+}
+
+#btn{
+  width: 80px;
+  height: 50px;
+  float: left;
+  background:skyblue;
+  color:white;
+  border-radius: 5px 5px;
+  box-shadow: 3px 2px#D3DEFE;
+}
